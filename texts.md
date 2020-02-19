@@ -9,7 +9,7 @@ title: Texts
 * Epictetus's Enchiridion — <https://github.com/jtauber/enchiridion>
 * Plato Texts (starting with Crito) — <https://github.com/jtauber/plato-texts>
 * Justin Martyr's works — <https://github.com/Mallioch/justin-martyr-texts>
-* ... any post-beginner Greek prose you're interested in seeing (especially [if you're willing to shepherd it](https://greek-learner-texts.github.io/guide_for_shepherds)!)
+* ... any post-beginner Greek prose you're interested in seeing (especially [if you're willing to shepherd it](https://greek-learner-texts.github.io/guide_for_shepherds/)!)
 
 ## 18th–20th Century Greek Readers
 
