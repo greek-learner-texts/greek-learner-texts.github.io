@@ -6,3 +6,4 @@ header_pages:
   - texts.md
   - other_data.md
   - tools.md
+permalink: pretty
