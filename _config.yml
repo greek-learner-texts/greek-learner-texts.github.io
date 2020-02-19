@@ -1,6 +1,7 @@
 theme: minima
 title: Greek Learner Texts Project
 author: The GLTP Team
+description: organising collaboration on Ancient Greek texts and data for learners
 header_pages:
   - texts.md
   - other_data.md
