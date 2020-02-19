@@ -1,7 +1,3 @@
----
-title: Greek Texts
----
-
 organising collaboration on Ancient Greek texts and data for learners
 
 ## Who We Are
