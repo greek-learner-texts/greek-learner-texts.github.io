@@ -13,11 +13,13 @@ title: Texts
 
 ## 18th–20th Century Greek Readers
 
-1. Colson, _Stories and Legends_
-2. Chambers, _The Greek War of Independence_
-3. Beresford and Douglas, _a first greek reader_
-4. Hayes, _Tutorial Greek_
-5. Edwards, _Salamis_
+| Author                | Title                     | Year | Scans                                                                                                                         | Transcriptions                                                            | Shepherd | Our Repo |
+|-----------------------|---------------------------|------|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|----------|----------|
+| Colson                | Stories and Lengends      | 1908 | [1](https://archive.org/details/storiesandlegen00colsgoog)                                                                    | [1](https://fabulaeweb.wordpress.com/ancient-greek/colsons-greek-reader/) |          |          |
+| Chambers              | Greek War of Independence | 1906 | [1](https://archive.org/details/in.ernet.dli.2015.13619/page/n1/mode/2up)                                                     |                                                                           | Seumas   |          |
+| Beresford and Douglas | First Greek Reader        | 1902 | [1](http://www.vivariumnovum.it/edizioni/libri/dominio-pubblico/Beresford%20&%20Douglas%20-%20A%20first%20Greek%20reader.pdf) |                                                                           | Fergus   |          |
+| Young                 | Tutorial Greek            | 1898 | [1](https://archive.org/details/tutorialgreekrea00younuoft)                                                                   |                                                                           | Chris    |          |
+| Edwards               | Salamis in easy Greek     | 1913 | [1](https://archive.org/details/salamisineasyatt00edwa/page/n6/mode/2up)                                                      |                                                                           |          |          |
 
 see also:
 
