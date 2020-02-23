@@ -11,7 +11,7 @@ title: Texts
 * Justin Martyr's works — <https://github.com/Mallioch/justin-martyr-texts>
 * ... any post-beginner Greek prose you're interested in seeing (especially [if you're willing to shepherd it](https://greek-learner-texts.github.io/guide_for_shepherds/)!)
 
-## 19th/20th Century Greek Readers
+## 19th/20th Century Easy Greek Readers
 
 | Author                | Title                     | Year | Scans                                                                                                                         | Transcriptions                                                            | Shepherd | Our Repo |
 |-----------------------|---------------------------|------|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|----------|----------|
