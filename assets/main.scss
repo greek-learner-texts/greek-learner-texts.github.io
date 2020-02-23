@@ -2,7 +2,9 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,500,700&display=swap&subset=greek,greek-ext,latin-ext');
 @import "minima";
+
 body {
-  font-family: serif;
+  font-family: 'Roboto Slab';
 }
