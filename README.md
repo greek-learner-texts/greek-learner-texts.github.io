@@ -1,2 +1,3 @@
-# greek-learner-texts.github.io
-website
+# Greek Learner Texts Project website
+
+<https://greek-learner-texts.org/>
