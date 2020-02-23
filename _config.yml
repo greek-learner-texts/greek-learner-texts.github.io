@@ -7,5 +7,3 @@ header_pages:
   - other_data.md
   - tools.md
 permalink: pretty
-minima:
-  skin: sunrise
