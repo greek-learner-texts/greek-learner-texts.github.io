@@ -8,3 +8,5 @@ header_pages:
   - tools.md
 permalink: pretty
 google_analytics: UA-175899-17
+minima:
+  skin: gltp
