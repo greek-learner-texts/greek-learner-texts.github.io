@@ -17,13 +17,16 @@ See:
 
 * James Tauber — <https://jktauber.com>
 * Seumas Macdonald — <https://thepatrologist.com>
-* David Maddock — <http://davemaddock.com>
 * Fletcher Hardison — <http://www.amindforlanguage.com>
+* Christoph Jasinski — <https://github.com/sleeptillseven>
+* Fergus Walsh
+* David Maddock — <http://davemaddock.com>
 * Ken M. Penner — <http://pseudepigrapha.org>
 * Nathan D. Smith — <http://nathan.smithfam.info>
-* Christoph Jasinski — <https://github.com/sleeptillseven>
 * Bryan Forbes — <https://github.com/bryanforbes>
 * Eric Sowell — <http://ericsowell.com>
+
+and many others on Slack (see below).
 
 ## Joining Us
 
