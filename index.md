@@ -1,5 +1,18 @@
 organising collaboration on Ancient Greek texts and data for learners
 
+## What We're Producing
+
+* openly-licensed base texts following agreed-upon conventions
+* tooling which produces a static website, EPUB, print-ready version, and (where appropriate) CTS TEI XML for contributing back to OGL / showing in Scaife
+* corpus-based vocabulary lists for language learners (and producers of graded Greek reading material)
+* linguistic annotation necessary to do things like track vocabulary, produce context-specific glosses, etc.
+
+See:
+
+* [Texts](https://greek-learner-texts.org/texts/) we're editing
+* [Other Data](https://greek-learner-texts.org/other_data/) we're producing
+* [Tools](https://greek-learner-texts.org/tools/) we're developing
+
 ## Who We Are
 
 * James Tauber — <https://jktauber.com>
@@ -11,13 +24,6 @@ organising collaboration on Ancient Greek texts and data for learners
 * Christoph Jasinski — <https://github.com/sleeptillseven>
 * Bryan Forbes — <https://github.com/bryanforbes>
 * Eric Sowell — <http://ericsowell.com>
-
-## What We're Producing
-
-* openly-licensed base texts following agreed-upon conventions
-* tooling which produces a static website, EPUB, print-ready version, and (where appropriate) CTS TEI XML for contributing back to OGL / showing in Scaife
-* corpus-based vocabulary lists for language learners (and producers of graded Greek reading material)
-* linguistic annotation necessary to do things like track vocabulary, produce context-specific glosses, etc.
 
 ## Joining Us
 
