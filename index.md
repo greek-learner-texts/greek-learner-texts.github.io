@@ -19,7 +19,7 @@ See:
 * Seumas Macdonald — <https://thepatrologist.com>
 * Fletcher Hardison — <http://www.amindforlanguage.com>
 * Christoph Jasinski — <https://github.com/sleeptillseven>
-* Fergus Walsh
+* Fergus Walsh — <http://www.fergusjpwalsh.co.uk>
 * David Maddock — <http://davemaddock.com>
 * Ken M. Penner — <http://pseudepigrapha.org>
 * Nathan D. Smith — <http://nathan.smithfam.info>
