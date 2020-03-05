@@ -25,6 +25,7 @@ See:
 * Nathan D. Smith — <http://nathan.smithfam.info>
 * Bryan Forbes — <https://github.com/bryanforbes>
 * Eric Sowell — <http://ericsowell.com>
+* Ivy Livingston — <https://scholar.harvard.edu/livingston>
 
 and many others on Slack (see below).
 
