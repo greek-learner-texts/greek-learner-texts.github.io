@@ -1,20 +1,25 @@
 ---
 title: Texts
 ---
-## Ancient Texts
+
+If there is any post-beginner Greek prose you're interested in helping add, see the [Guide for Shepherds](https://greek-learner-texts.github.io/guide_for_shepherds/). 
+
+## Post-Beginner Greek Prose
+
+* Plato Texts (starting with Crito) — <https://github.com/jtauber/plato-texts>
+* Lysias, Demosthenes, Xenophon, Thucydides, Isocrates, Herodotus (all coming)
+* Epictetus's Enchiridion — <https://github.com/jtauber/enchiridion>
+* Aesop — <https://github.com/jtauber/aesop>
+
+## Biblical and Early Christian Texts
 
 * GNT (in discussion about which version but, for now see <https://github.com/morphgnt> and <https://github.com/jtauber/gnt-texts>)
 * LXX (<https://github.com/sleeptillseven/LXX-Swete> and <https://github.com/nathans/lxx-swete>)
 * Apostolic Fathers — <https://jtauber.github.io/apostolic-fathers/>
-* Epictetus's Enchiridion — <https://github.com/jtauber/enchiridion>
-* Plato Texts (starting with Crito) — <https://github.com/jtauber/plato-texts>
-* Aesop — <https://github.com/jtauber/aesop>
 * Justin Martyr's works — <https://github.com/Mallioch/justin-martyr-texts>
 * Greek Early Church Homilies — <https://github.com/fhardison/greek-early-church>
 
  as well as...
-
-* ... any post-beginner Greek prose you're interested in seeing (especially [if you're willing to shepherd it](https://greek-learner-texts.github.io/guide_for_shepherds/)!)
 
 ## 19th/20th Century Easy Greek Readers
 
