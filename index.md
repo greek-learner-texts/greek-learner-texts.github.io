@@ -1,5 +1,5 @@
 
-The Greek Learner Text Project is a collaborative effort to produce openly-licensed texts in Ancient Greek for extensive reading.
+The _Greek Learner Texts Project_ is a collaborative effort to produce openly-licensed texts in Ancient Greek for extensive reading.
 
 ## What We're Producing
 
