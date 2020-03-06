@@ -2,7 +2,7 @@
 title: Texts
 ---
 
-If there is any post-beginner Greek prose you're interested in helping add, see the [Guide for Shepherds](https://greek-learner-texts.github.io/guide_for_shepherds/). 
+If there is any Greek prose appropriate for extensive reading that you're interested in helping add, see the [Guide for Shepherds](https://greek-learner-texts.github.io/guide_for_shepherds/). 
 
 ## Post-Beginner Greek Prose
 
@@ -18,8 +18,6 @@ If there is any post-beginner Greek prose you're interested in helping add, see 
 * Apostolic Fathers — <https://jtauber.github.io/apostolic-fathers/>
 * Justin Martyr's works — <https://github.com/Mallioch/justin-martyr-texts>
 * Greek Early Church Homilies — <https://github.com/fhardison/greek-early-church>
-
- as well as...
 
 ## 19th/20th Century Easy Greek Readers
 
