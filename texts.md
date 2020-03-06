@@ -10,6 +10,7 @@ title: Texts
 * Plato Texts (starting with Crito) — <https://github.com/jtauber/plato-texts>
 * Aesop — <https://github.com/jtauber/aesop>
 * Justin Martyr's works — <https://github.com/Mallioch/justin-martyr-texts>
+* Greek Early Chruch Homilies - <https://github.com/fhardison/greek-early-chruch>
 
  as well as...
 
