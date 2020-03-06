@@ -1,9 +1,10 @@
-organising collaboration on Ancient Greek texts and data for learners
+
+The Greek Learner Text Project is a collaborative effort to produce openly-licensed Greek texts for extensive reading.
 
 ## What We're Producing
 
 * openly-licensed base texts following agreed-upon conventions
-* tooling which produces a static website, EPUB, print-ready version, and (where appropriate) CTS TEI XML for contributing back to OGL / showing in Scaife
+* tooling which produces online and print versions of the texts
 * corpus-based vocabulary lists for language learners (and producers of graded Greek reading material)
 * linguistic annotation necessary to do things like track vocabulary, produce context-specific glosses, etc.
 
