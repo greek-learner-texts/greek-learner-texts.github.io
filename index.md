@@ -33,3 +33,5 @@ and many others on Slack (see below).
 ## Joining Us
 
 We have a Slack workspace <https://greek-learner-texts.slack.com/>. If you're interested in joining, send an email to jtauber@jtauber.com introducing yourself and he'll invite you to Slack.
+
+If there are any texts you're interested in helping add, see the [Guide for Shepherds](https://greek-learner-texts.github.io/guide_for_shepherds/). 
