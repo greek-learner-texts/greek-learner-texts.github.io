@@ -27,7 +27,7 @@ If there is any Greek prose appropriate for extensive reading that you're intere
 | Chambers | Greek War of Independence | 1906 | <a href="https://archive.org/details/in.ernet.dli.2015.13619/page/n1/mode/2up"><i class="far fa-file-image"></i></a> | Seumas | <a href="https://github.com/seumasjeltzz/ChambersGreekWar"><i class="fab fa-github"></i></a> | OCRing |
 | Beresford and Douglas | A First Greek Reader | 1902 | <a href="http://www.vivariumnovum.it/edizioni/libri/dominio-pubblico/Beresford%20&%20Douglas%20-%20A%20first%20Greek%20reader.pdf"><i class="far fa-file-image"></i></a> | Fergus | <a href="https://github.com/seumasjeltzz/Beresford"><i class="fab fa-github"></i></a> | transcribed; now correcting and marking up |
 | Young | Tutorial Greek | 1898 | <a href="https://archive.org/details/tutorialgreekrea00younuoft"><i class="far fa-file-image"></i></a> | Chris | <a href="https://github.com/sleeptillseven/youngs-tutorial-greek-reader"><i class="fab fa-github"></i></a> | transcribing (47% complete) |
-| Edwards | Salamis in easy Greek | 1913 | <a href="https://archive.org/details/salamisineasyatt00edwa/page/n6/mode/2up"><i class="far fa-file-image"></i></a> | | seeking shepherd |
+| Edwards | Salamis in easy Greek | 1913 | <a href="https://archive.org/details/salamisineasyatt00edwa/page/n6/mode/2up"><i class="far fa-file-image"></i></a> |  | | seeking shepherd |
 
 see also:
 
