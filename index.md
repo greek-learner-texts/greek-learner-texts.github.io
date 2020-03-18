@@ -3,7 +3,7 @@ The _Greek Learner Texts Project_ is a collaborative effort to produce openly-li
 
 ## What We're Producing
 
-* openly-licensed base texts following agreed-upon conventions
+* openly-licensed, high-quality, citable base texts in a standard, machine-actionable format
 * tooling which produces online and print versions of the texts
 * corpus-based vocabulary lists for language learners (and producers of graded Greek reading material)
 * linguistic annotation necessary to do things like track vocabulary, produce context-specific glosses, etc.
