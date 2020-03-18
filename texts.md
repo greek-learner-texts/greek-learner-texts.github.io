@@ -6,10 +6,13 @@ If there is any Greek prose appropriate for extensive reading that you're intere
 
 ## Post-Beginner Greek Prose
 
-* Plato Texts (starting with Crito) — <a href="https://github.com/jtauber/plato-texts"><i class="fab fa-github"></i></a>
-* Lysias, Demosthenes, Xenophon, Thucydides, Isocrates, Herodotus (all coming)
-* Epictetus's Enchiridion — <a href="https://github.com/jtauber/enchiridion"><i class="fab fa-github"></i></a>
-* Aesop — <a href="https://github.com/jtauber/aesop"><i class="fab fa-github"></i></a>
+| Work(s) | Shepherd | Our Repo | Status |
+|---------|----------|----------|--------|
+| Plato's Crito | James | <a href="https://github.com/jtauber/plato-texts"><i class="fab fa-github"></i></a> | text done and validated with sentence boundaries; currently disambiguating automated lemmatisation sentence-aligning English translation |
+| Epictetus's Enchiridion | James | <a href="https://github.com/jtauber/enchiridion"><i class="fab fa-github"></i></a> | text done; currently correcting automated lemmatisation and sentence-aligning multiple English translations |
+| Aesop's Fables | James | <a href="https://github.com/jtauber/aesop"><i class="fab fa-github"></i></a> | correcting OGL text |
+
+Lysias, Demosthenes, Xenophon, Thucydides, Herodotus all coming (shepherds wanted!)
 
 ## Biblical and Early Christian Texts
 
