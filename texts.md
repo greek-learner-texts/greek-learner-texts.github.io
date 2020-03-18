@@ -12,7 +12,7 @@ If there is any Greek prose appropriate for extensive reading that you're intere
 | Epictetus's Enchiridion | James | <a href="https://github.com/jtauber/enchiridion"><i class="fab fa-github"></i></a> | text done; currently correcting automated lemmatisation and sentence-aligning multiple English translations |
 | Aesop's Fables | James | <a href="https://github.com/jtauber/aesop"><i class="fab fa-github"></i></a> | correcting OGL text |
 
-Lysias, Demosthenes, Xenophon, Thucydides, Herodotus all coming (shepherds wanted!)
+Lysias, Demosthenes, Xenophon, Thucydides, Herodotus, and more Plato all coming (shepherds wanted!)
 
 ## Biblical and Early Christian Texts
 
