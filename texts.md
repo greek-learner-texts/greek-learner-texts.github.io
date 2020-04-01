@@ -42,7 +42,7 @@ see also:
 | Colson, _Stories and Legends_ (1908) | <a href="https://archive.org/details/storiesandlegen00colsgoog"><i class="far fa-file-image"></i></a> | Ivy | <a href="https://github.com/IvyJL/colson-stories"><i class="fab fa-github"></i></a> | just starting |
 | Chambers, _Greek War of Independence_ (1906) | <a href="https://archive.org/details/in.ernet.dli.2015.13619/page/n1/mode/2up"><i class="far fa-file-image"></i></a> | Seumas | <a href="https://github.com/seumasjeltzz/ChambersGreekWar"><i class="fab fa-github"></i></a> | OCRing |
 | Beresford and Douglas, _A First Greek Reader_ (1902) | <a href="http://www.vivariumnovum.it/edizioni/libri/dominio-pubblico/Beresford%20&%20Douglas%20-%20A%20first%20Greek%20reader.pdf"><i class="far fa-file-image"></i></a> | Fergus | <a href="https://github.com/seumasjeltzz/Beresford"><i class="fab fa-github"></i></a> | transcribed; now correcting and marking up |
-| Young, _Tutorial Greek_ (1898) | <a href="https://archive.org/details/tutorialgreekrea00younuoft"><i class="far fa-file-image"></i></a> | Chris | <a href="https://github.com/sleeptillseven/youngs-tutorial-greek-reader"><i class="fab fa-github"></i></a> | transcribing (55% complete) |
+| Young, _Tutorial Greek_ (1898) | <a href="https://archive.org/details/tutorialgreekrea00younuoft"><i class="far fa-file-image"></i></a> | Chris | <a href="https://github.com/sleeptillseven/youngs-tutorial-greek-reader"><i class="fab fa-github"></i></a> | transcribing (67% complete) |
 | Edwards, _Salamis in easy Greek_ (1913) | <a href="https://archive.org/details/salamisineasyatt00edwa/page/n6/mode/2up"><i class="far fa-file-image"></i></a> |  | | [seeking shepherd](https://greek-learner-texts.github.io/guide_for_shepherds/) |
 
 see also:
