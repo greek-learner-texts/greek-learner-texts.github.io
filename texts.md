@@ -39,7 +39,7 @@ Lysias, Demosthenes, Xenophon, Thucydides, Herodotus, and more Plato all coming 
     <th>{{ text.title }}</th>
     <td>{{ text.shepherd }}</td>
     <td><a href="{{ text.repo }}">repo</a></td>
-    <td>{% if text.read %}<a href="{{ text.read }}">read</a></td>
+    <td>{% if text.read %}<a href="{{ text.read }}">read</a>{% endif %}</td>
     <td>{{ text.status }}</td>
   </tr>
 {% endfor %}
