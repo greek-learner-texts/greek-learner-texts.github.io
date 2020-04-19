@@ -4,7 +4,7 @@ title: Other Data
 
 ## Vocabulary
 
-As well as lemmatizing texts, we're developing a learners vocabulary of a few thousand words. We're also developing a smaller list of _pictureable words_ with the goal of also providing openly-licensed illustrations to go with them.
+As well as lemmatizing texts, we're developing a _learners' word list_ of a few thousand words. We're also developing a smaller list of _pictureable words_ with the goal of also providing openly-licensed illustrations to go with them.
 
 See <https://github.com/greek-learner-texts/vocabulary-data> for overall data-wrangling in progress.
 
