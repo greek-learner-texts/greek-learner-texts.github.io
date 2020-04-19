@@ -24,6 +24,10 @@ Lysias, Demosthenes, Xenophon, Thucydides, Herodotus, and more Plato all coming 
 
 ## Biblical and Early Christian Texts
 
+{% for text in site.data.texts.biblical_early_christian %}
+    {{ text.title }}
+{% endfor %}
+
 | Work | Shepherd | Our Repo | Status |
 |------|----------|----------|--------|
 | Apostolic Fathers | James | <a href="https://jtauber.github.io/apostolic-fathers/"><i class="fab fa-github"></i></a> | text done and validated |

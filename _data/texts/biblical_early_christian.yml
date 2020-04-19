@@ -1,0 +1,12 @@
+-
+  title: Apostolic Fathers
+  shepherd: James
+  repo: https://github.com/jtauber/apostolic-fathers/
+  read: https://jtauber.github.io/apostolic-fathers/
+  status: "text done and validated; awaiting lemmatization"
+
+-
+  title: LXX
+  shepherd: Chris
+  repo: https://github.com/sleeptillseven/LXX-Swete
+  status: "transcribing"
