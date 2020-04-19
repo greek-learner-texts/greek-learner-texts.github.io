@@ -24,14 +24,26 @@ Lysias, Demosthenes, Xenophon, Thucydides, Herodotus, and more Plato all coming 
 
 ## Biblical and Early Christian Texts
 
+<table>
+  <thead>
+    <tr>
+      <th>Work</th>
+      <th>Shepherd</th>
+      <th>Repo</th>
+      <th>Read Online</th>
+      <th>Status</th>
+    </tr>
+  </thead>
 {% for text in site.data.texts.biblical_early_christian %}
-    {{ text.title }}
+  <tr>
+    <th>{{ text.title }}</th>
+    <td>{{ text.shepherd }}</td>
+    <td><a href="{{ text.repo }}">repo</a></td>
+    <td>{% if text.read %}<a href="{{ text.read }}">read</a></td>
+    <td>{{ text.status }}</td>
+  </tr>
 {% endfor %}
-
-| Work | Shepherd | Our Repo | Status |
-|------|----------|----------|--------|
-| Apostolic Fathers | James | <a href="https://jtauber.github.io/apostolic-fathers/"><i class="fab fa-github"></i></a> | text done and validated |
-| LXX | Chris | <a href="https://github.com/sleeptillseven/LXX-Swete"><i class="fab fa-github"></i></a> and <a href="https://github.com/nathans/lxx-swete"><i class="fab fa-github"></i></a> | transcribing |
+</table>
 
 see also:
 
