@@ -2,10 +2,18 @@
 title: Other Data
 ---
 
-Some relevant data projects
+## Vocabulary
 
-* <https://github.com/jtauber/core-gnt-vocab>
-* <https://github.com/morphgnt/morphological-lexicon>
-* <https://github.com/jtauber/greek-vocabulary-list>
+As well as lemmatizing texts, we're developing a learners vocabulary of a few thousand words. We're also developing a smaller list of _pictureable words_ with the goal of also providing openly-licensed illustrations to go with them.
 
-plus other stuff I (James) still need to open up consolidating vocabulary lists like DCC and the "Major 80" and also lists of principal parts.
+See <https://github.com/greek-learner-texts/vocabulary-data> for overall data-wrangling in progress.
+
+Join the `#vocabulary` channel on Slack for more discussion.
+
+## Morphology
+
+Largely independent of this project but still hopefully serving it, James has been working on a rich Morphological Lexicon of Ancient Greek for a number of years. This will include a database of stems and principal parts that will cover the texts of the GLTP and beyond.
+
+More will be announced here soon.
+
+Join the `#morphology` channel on Slack for more discussion.
