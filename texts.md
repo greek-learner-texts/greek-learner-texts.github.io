@@ -24,26 +24,7 @@ Lysias, Demosthenes, Xenophon, Thucydides, Herodotus, and more Plato all coming 
 
 ## Biblical and Early Christian Texts
 
-<table>
-  <thead>
-    <tr>
-      <th>Work</th>
-      <th>Shepherd</th>
-      <th>Repo</th>
-      <th>Read Online</th>
-      <th>Status</th>
-    </tr>
-  </thead>
-{% for text in site.data.texts.biblical_early_christian %}
-  <tr>
-    <th>{{ text.title }}</th>
-    <td>{{ text.shepherd }}</td>
-    <td><a href="{{ text.repo }}">repo</a></td>
-    <td>{% if text.read %}<a href="{{ text.read }}">read</a>{% endif %}</td>
-    <td>{{ text.status }}</td>
-  </tr>
-{% endfor %}
-</table>
+{% include text-table.html texts=site.data.texts.biblical_early_christian %}
 
 see also:
 
