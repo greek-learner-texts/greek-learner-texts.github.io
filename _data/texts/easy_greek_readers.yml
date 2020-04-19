@@ -1,0 +1,41 @@
+-
+  author: Colson
+  title: Stories and Legends
+  year: 1908
+  shepherd: Ivy
+  repo: https://github.com/IvyJL/colson-stories
+  status: "correcting OCR"
+
+-
+  author: Chambers
+  title: Greek War of Independence
+  year: 1906
+  shepherd: Seumas
+  repo: https://github.com/seumasjeltzz/ChambersGreekWar
+  status: "correcting OCR"
+
+-
+  author: Beresford and Douglas
+  title: A First Greek Reader
+  year: 1902
+  shepherd: Fergus
+  repo: https://github.com/seumasjeltzz/Beresford
+  status: "transcribed; now correcting and marking up"
+
+-
+  author: Young
+  title: Tutorial Greek
+  year: 1898
+  shepherd: Chris
+  repo: https://github.com/sleeptillseven/youngs-tutorial-greek-reader
+  read: https://sleeptillseven.github.io/youngs-tutorial-greek-reader/
+  status: "transcribing (70% complete)"
+
+-
+  author: Edwards
+  title: Salamis in easy Greek
+  year: 1913
+  shepherd: Chris
+  repo: https://github.com/sleeptillseven/edwards-salamis-in-easy-attic-greek
+  read: https://sleeptillseven.github.io/edwards-salamis-in-easy-attic-greek/
+  status: "correcting OCR (preface, introduction and 18% of main text done)"

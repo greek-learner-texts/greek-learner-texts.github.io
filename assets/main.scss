@@ -9,10 +9,17 @@ body {
   font-family: 'Roboto Slab';
 }
 .site-header {
-  background: #EEF;
+  background: #CCF;
   border: none;
 }
 
-td.text-title {
+table.text-table {
+  font-size: 90%;
+}
+td.text-work {
   white-space: nowrap;
+  .title {
+    font-weight: bold;
+    font-style: italic;
+  }
 }

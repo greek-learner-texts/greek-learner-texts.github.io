@@ -1,0 +1,20 @@
+-
+  author: Plato
+  title: Crito
+  shepherd: James
+  repo: https://github.com/jtauber/plato-texts/
+  status: "text done and validated with sentence boundaries; currently disambiguating automated lemmatization sentence-aligning English translation"
+
+-
+  author: Epictetus
+  title: Enchiridion
+  shepherd: James
+  repo: https://github.com/jtauber/enchiridion
+  status: "text done; currently correcting automated lemmatization and sentence-aligning multiple English translations"
+
+-
+  author: Aesop
+  title: Fables
+  shepherd: James
+  repo: https://github.com/jtauber/aesop/
+  status: "correcting OGL text"

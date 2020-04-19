@@ -1,4 +1,4 @@
-<table>
+<table class="text-table">
     <thead>
       <tr>
         <th>Work</th>
@@ -10,7 +10,13 @@
     </thead>
   {% for text in include.texts %}
     <tr>
-      <td class="text-title">{{ text.title }}</td>
+      <td class="text-work">
+        {% if text.author %}
+            {{ text.author }}
+            {% if text.year %}({{ text.year }}){% endif %}<br>
+        {% endif %}
+        <span class="title">{{ text.title }}</span>
+      </td>
       <td>{{ text.shepherd }}</td>
       <td><a href="{{ text.repo }}">repo</a></td>
       <td>{% if text.read %}<a href="{{ text.read }}">read</a>{% endif %}</td>
