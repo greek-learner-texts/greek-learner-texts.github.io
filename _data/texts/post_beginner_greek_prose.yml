@@ -10,6 +10,7 @@
   title: Enchiridion
   shepherd: James
   repo: https://github.com/jtauber/enchiridion
+  read: https://jtauber.github.io/enchiridion/
   status: "text done; currently correcting automated lemmatization and sentence-aligning multiple English translations"
 
 -
