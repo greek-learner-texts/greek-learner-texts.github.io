@@ -29,7 +29,7 @@
   shepherd: Chris
   repo: https://github.com/sleeptillseven/youngs-tutorial-greek-reader
   read: https://sleeptillseven.github.io/youngs-tutorial-greek-reader/
-  status: "transcribing (70% complete)"
+  status: "transcribing (95% complete)"
 
 -
   author: Edwards
@@ -38,4 +38,4 @@
   shepherd: Chris
   repo: https://github.com/sleeptillseven/edwards-salamis-in-easy-attic-greek
   read: https://sleeptillseven.github.io/edwards-salamis-in-easy-attic-greek/
-  status: "correcting OCR (preface, introduction and 64% of main text done)"
+  status: "correcting OCR (preface, introduction and main text 100% done)"
