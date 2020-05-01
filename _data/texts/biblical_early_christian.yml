@@ -9,4 +9,9 @@
   title: LXX
   shepherd: Chris
   repo: https://github.com/sleeptillseven/LXX-Swete
-  status: "transcribing"
+  status: "transcribing (29% done)"
+-
+  title: LXX Codex Alexandrinus
+    shepherd: Chris
+    repo: https://github.com/sleeptillseven/LXX.Alex
+    status: "transcribing (10% done)"
