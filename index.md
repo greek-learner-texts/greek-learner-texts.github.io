@@ -1,5 +1,11 @@
 
-The _Greek Learner Texts Project_ is a collaborative effort to produce openly-licensed texts in Ancient Greek for extensive reading.
+The _Greek Learner Texts Project_ is a collaborative effort to produce openly-licensed, annotated texts in Ancient&nbsp;Greek for extensive reading.
+
+<div class="row">
+  <a href="/texts/"><i class="fas fa-book-open"></i><br>Texts</a>
+  <a href="/other_data/"><i class="fas fa-list-alt"></i><br>Other Data</a>
+  <a href="/tools/"><i class="fas fa-tools"></i><br>Tools</a>
+</div>
 
 ## What We're Producing
 
@@ -8,11 +14,6 @@ The _Greek Learner Texts Project_ is a collaborative effort to produce openly-li
 * corpus-based vocabulary lists for language learners (and producers of graded Greek reading material)
 * linguistic annotation necessary to do things like track vocabulary, produce context-specific glosses, etc.
 
-See:
-
-* [Texts](https://greek-learner-texts.org/texts/) we're editing
-* [Other Data](https://greek-learner-texts.org/other_data/) we're producing
-* [Tools](https://greek-learner-texts.org/tools/) we're developing
 
 ## Who We Are
 
@@ -34,4 +35,4 @@ and many others on Slack (see below).
 
 We have a Slack workspace <https://greek-learner-texts.slack.com/>. If you're interested in joining, send an email to jtauber@jtauber.com introducing yourself and he'll invite you to Slack.
 
-If there are any texts you're interested in helping add, see the [Guide for Shepherds](https://greek-learner-texts.github.io/guide_for_shepherds/). 
+If there are any texts you're interested in helping add, see the [Guide for Shepherds](https://greek-learner-texts.github.io/guide_for_shepherds/).

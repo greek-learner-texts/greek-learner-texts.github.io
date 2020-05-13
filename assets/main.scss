@@ -7,12 +7,43 @@
 
 body {
   font-family: 'Roboto Slab';
+  line-height: 1.8;
+}
+a, a:visited {
+  color: #936;
+}
+em {
+  font-weight: 700;
+  font-style: normal;
 }
 .site-header {
-  background: #CCF;
-  border: none;
+  background: #936;
 }
-
+.site-title, .site-title:visited {
+  color: #FFF;
+  font-weight: 400;
+  letter-spacing: 0.3px;
+}
+.site-nav {
+  background: #936;
+}
+.menu-icon svg path {
+  fill: #FFF;
+}
+.site-nav .page-link {
+  color: #FFF;
+}
+.site-footer {
+  padding: 15px 0 0 0;
+  background: #EEE;
+}
+.footer-heading {
+  color: #333;
+  margin: 0;
+}
+pre, code {
+  background: #EEE;
+}
 table.text-table {
   font-size: 90%;
 }
@@ -21,5 +52,62 @@ td.text-work {
   .title {
     font-weight: bold;
     font-style: italic;
+  }
+}
+h2 {
+  margin-top: 30px;
+  color: #936;
+}
+.home p:first-of-type {
+  margin: 40px;
+  font-weight: 400;
+  font-size: 20pt;
+  text-align: center;
+}
+
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+
+  > a {
+    display: block;
+    padding: 30px 60px;
+    margin: 10px;
+    background: lighten($color: #936, $amount: 55%);
+    text-align: center;
+    font-size: 16pt;
+    i {
+      font-size: 32pt;
+    }
+    &:hover {
+      text-decoration: none;
+      background: #936;
+      color: #FFF;
+    }
+  }
+}
+
+@media (max-width: 900px) {
+  .home p:first-of-type {
+    margin: 20px 20px 40px;
+    font-size: 18pt;
+  }
+  .row > a {
+    padding: 20px 40px;
+    font-size: 14pt;
+    i {
+      font-size: 28pt;
+    }
+  }
+}
+@media (max-width: 600px) {
+  .page-content {
+    padding-top: 10px;
+  }
+  .home p:first-of-type {
+    margin-top: 0px 10px 20px;
+    font-size: 16pt;
   }
 }
