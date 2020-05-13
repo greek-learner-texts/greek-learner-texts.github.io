@@ -18,7 +18,7 @@ While we will probably expand things to include translation alignment, postaggin
 * start a new channel in Slack and invite anyone who expressed an interest (you can also advertise it in `#general`)
 * start a github repo for it by going to <https://github.com/greek-learner-texts/text-repository-template> and clicking the green button "use this template"
 * add a `greek-texts` topic tag to your repo
-* add the repo under "Texts" on <https://github.com/greek-learner-texts/greek-learner-texts.github.io/blob/master/texts.md> (send a pull-request)
+* add the repo in the appropriate YAML file in <https://github.com/greek-learner-texts/greek-learner-texts.github.io/tree/master/_data/texts> (send a pull-request)
 * `/github subscribe` to the repo in the `#github` channel on Slack
 
 ## Putting Together the Initial Text
