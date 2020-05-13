@@ -1,4 +1,6 @@
-# Guide for Shepherds
+---
+title: Guide for Shepherds
+---
 
 We use the term "shepherd" for the person ultimately keeping an eye on making forward progress on a particular text. They don't have to do all the work or even the majority of the work, they just need to be willing to help move things along.
 
