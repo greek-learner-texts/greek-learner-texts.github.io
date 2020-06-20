@@ -25,7 +25,6 @@ Lysias, Demosthenes, Xenophon, Thucydides, Herodotus, and more Plato all coming 
 see also:
 
 * GNT (in discussion about which version but, for now see <https://github.com/morphgnt> and <https://github.com/jtauber/gnt-texts>)
-* Justin Martyr's works — <a href="https://github.com/Mallioch/justin-martyr-texts"><i class="fab fa-github"></i></a>
 * Greek Early Church Homilies — <a href="https://github.com/fhardison/greek-early-church"><i class="fab fa-github"></i></a>
 
 ## 19th/20th Century Easy Greek Readers
