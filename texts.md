@@ -36,7 +36,7 @@ see also:
 * <https://github.com/seumasjeltzz/EasyGreekReaders>
 * <https://github.com/fhardison/rouse-a-greek-boy-at-home>
 * <https://github.com/ryanfb/rousefirstgreekcourse>
-* <https://github.com/sleeptillseven/stoffel-an-epitome-of-the-new-testament> (main text 12% done)
+* <https://github.com/sleeptillseven/stoffel-an-epitome-of-the-new-testament> (main text 21% done)
 
 ## Born-Digital Readers
 
