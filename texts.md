@@ -4,8 +4,10 @@ title: Texts
 
 We're focused on producing high-quality, citable, consistently lemmatised editions of texts in the following categories:
 
-* [Post-Beginner Greek Prose](#post-beginner-greek-prose)
+* [Plato](#plato)
+* [Other Post-Beginner Greek Prose](#other-post-beginner-greek-prose)
 * [Biblical and Early Christian Texts](#biblical-and-early-christian-texts)
+* [New Testament Epitomes](#new-testament-epitomes)
 * [19th/20th Century Easy Greek Readers](#19th20th-century-easy-greek-readers)
 
 as well as supporting the development of a born-digital reader: _Linguae Graecae Per Se Illustrata_ (LGPSI).
