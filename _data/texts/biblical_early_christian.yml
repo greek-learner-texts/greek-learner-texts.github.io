@@ -4,7 +4,6 @@
   repo: https://github.com/jtauber/apostolic-fathers/
   read: https://jtauber.github.io/apostolic-fathers/
   status: "text done and validated; awaiting lemmatization"
-
 -
   title: LXX
   shepherd: Chris
@@ -15,6 +14,11 @@
   shepherd: Chris
   repo: https://github.com/sleeptillseven/LXX.Alex
   status: "transcribing (10% done)"
+-
+  title: Susanna
+  shepherd: James
+  repo: https://github.com/jtauber/susanna
+  status: "text done; text tagged, glossed, and lemmatized at token level"
 -
   title: Justin Martyr
   shepherd: Eric
