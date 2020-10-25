@@ -1,12 +1,4 @@
 -
-  author: Plato
-  title: Crito
-  shepherd: James
-  repo: https://github.com/jtauber/plato-texts/
-  read: https://jtauber.github.io/plato-texts/crito.html
-  status: "text done and validated with sentence boundaries; currently disambiguating automated lemmatization sentence-aligning English translation"
-
--
   author: Epictetus
   title: Enchiridion
   shepherd: James
