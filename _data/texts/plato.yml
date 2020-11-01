@@ -10,34 +10,47 @@
   title: Euthyphro
   shepherd: James
   repo: https://github.com/jtauber/plato-texts/
+  read: https://jtauber.github.io/plato-texts/euthyphro.html
   status: "text done with sentence boundaries"
 -
   author: Plato
   title: Apology
   shepherd: James
   repo: https://github.com/jtauber/plato-texts/
+  read: https://jtauber.github.io/plato-texts/apology.html
   status: "text done with sentence boundaries"
 -
   author: Plato
   title: Phaedo
   shepherd: James
   repo: https://github.com/jtauber/plato-texts/
+  read: https://jtauber.github.io/plato-texts/phaedo.html
   status: "text done with sentence boundaries"
 -
   author: Plato
   title: Symposium
   shepherd: James
   repo: https://github.com/jtauber/plato-texts/
+  read: https://jtauber.github.io/plato-texts/symposium.html
   status: "text done with sentence boundaries"
 -
   author: Plato
   title: Meno
   shepherd: James
   repo: https://github.com/jtauber/plato-texts/
+  read: https://jtauber.github.io/plato-texts/meno.html
+  status: "text done with sentence boundaries"
+-
+  author: Plato
+  title: Ion
+  shepherd: James
+  repo: https://github.com/jtauber/plato-texts/
+  read: https://jtauber.github.io/plato-texts/ion.html
   status: "text done with sentence boundaries"
 -
   author: Plato
   title: Republic
   shepherd: James
   repo: https://github.com/jtauber/plato-texts/
+  read: https://jtauber.github.io/plato-texts/republic.html
   status: "text done with sentence boundaries"
