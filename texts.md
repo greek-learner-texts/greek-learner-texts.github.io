@@ -35,7 +35,7 @@ see also:
 
 ## New Testament Epitomes
 
-* <https://github.com/sleeptillseven/stoffel-an-epitome-of-the-new-testament> (main text 21% done)
+* <https://github.com/sleeptillseven/stoffel-an-epitome-of-the-new-testament> (main text 43% done)
 * also considering a back-translation of the [Open Bible Stories](https://www.openbiblestories.org)
 
 ## 19th/20th Century Easy Greek Readers
