@@ -18,7 +18,7 @@
         <span class="title">{{ text.title }}</span>
       </td>
       <td>{{ text.shepherd }}</td>
-      <td><a href="{{ text.repo }}">repo</a></td>
+      <td>{% if text.repo %}<a href="{{ text.repo }}">repo</a>{% endif %}</td>
       <td>{% if text.read %}<a href="{{ text.read }}">read</a>{% endif %}</td>
       <td>{{ text.status }}</td>
     </tr>
