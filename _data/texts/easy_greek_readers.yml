@@ -39,10 +39,16 @@
   repo: https://github.com/sleeptillseven/edwards-salamis-in-easy-attic-greek
   read: https://sleeptillseven.github.io/edwards-salamis-in-easy-attic-greek/
   status: "correcting OCR (preface, introduction and main text 100% done)"
-
 -
   author: Moss
   title: First Greek Reader
   year: 1900
   shepherd: Seumas
   status: "currently in transcription at 20%"
+
+-
+  author: Morice
+  title: Stories in Attic Greek
+  year: 1883
+  repo: https://github.com/greek-learner-texts/morice-stories
+  status: "main text 100% OCR'd and corrected and being converted; vocabulary in progress"
