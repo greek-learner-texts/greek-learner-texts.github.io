@@ -53,3 +53,14 @@
   year: 1883
   repo: https://github.com/greek-learner-texts/morice-stories
   status: "main text 100% OCR'd and corrected and being converted; vocabulary in progress"
+
+-
+  author: Sebald Heyden, Martin Ruland the Elder
+  title: Formulae Colloquiorum Puerilium, Αἱ τῶν Παιδῶν Ὁμιλίαι τε καὶ Φράσεις Σεβάλδου τοῦ Εὐδένος
+  year: 1527, 1556
+  shepherd: Fergus
+  repo: https://github.com/FergusJPWalsh/heyden-formulae
+  read: https://fergusjpwalsh.github.io/heyden-formulae
+  status: "New critical edition of the Latin dialogues by Sebald Heyden, and the Ancient Greek translation by Martin Ruland the Elder."
+
+-
