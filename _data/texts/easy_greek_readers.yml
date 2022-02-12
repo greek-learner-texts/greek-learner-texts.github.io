@@ -52,7 +52,17 @@
   title: Stories in Attic Greek
   year: 1883
   repo: https://github.com/greek-learner-texts/morice-stories
-  status: "main text 100% OCR'd and corrected and being converted; vocabulary in progress"
+  read: "Add link when commit approved"
+  status: "Inital comit with main text and preface. To do: incorporate notes into main text or as own page. Add vocab tools."
+
+-
+  author: G. S. Farnell
+  title: Tales from Herodotus
+  year: 1895
+  shepherd: Fergus
+  repo: https://github.com/FergusJPWalsh/farnell-herodotus
+  read: https://fergusjpwalsh.github.io/farnell-herodotus
+  status: "Inital commit with main text and preface. To do: incorporate notes into main text or as own page. Add vocab tools"
 
 -
   author: Sebald Heyden, Martin Ruland the Elder
