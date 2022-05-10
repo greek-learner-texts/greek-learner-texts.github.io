@@ -12,3 +12,9 @@
   shepherd: James
   repo: https://github.com/jtauber/aesop/
   status: "correcting OGL text"
+
+  author: Dionysius Thrax
+  title: Art of Grammar
+  shepherd: Fletcher
+  repo: https://github.com/fhardison/thrax_grammar
+  status: "A sentence aligned diglot has been created with Alpheios added for the Greek Text. There is also a Greek only version with Alpheios."
