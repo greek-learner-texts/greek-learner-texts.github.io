@@ -21,7 +21,7 @@
   shepherd: Fergus
   repo: https://github.com/seumasjeltzz/Beresford
   read: https://fergusjpwalsh.github.io/Beresford/index.html
-  status: "Text has been edited and checked. Lemmatisation, analysis and vocabulary tools to come."
+  status: "Text has been edited and checked. Running vocabulary and English translation in preparation."
 
 -
   author: Young
@@ -66,7 +66,7 @@
 
 -
   author: Sebald Heyden, Martin Ruland the Elder
-  title: Formulae Colloquiorum Puerilium, Αἱ τῶν Παιδῶν Ὁμιλίαι τε καὶ Φράσεις Σεβάλδου τοῦ Εὐδένος
+  title: Formulae Colloquiorum Puerilium
   year: 1527, 1556
   shepherd: Fergus
   repo: https://github.com/FergusJPWalsh/heyden-formulae
