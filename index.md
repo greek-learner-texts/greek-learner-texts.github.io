@@ -28,6 +28,8 @@ The _Greek Learner Texts Project_ is a collaborative effort to produce openly-li
 * Bryan Forbes — <https://github.com/bryanforbes>
 * Eric Sowell — <http://ericsowell.com>
 * Ivy Livingston — <https://scholar.harvard.edu/livingston>
+* Sarah M. Stephens — <https://github.com/sarahmccuan>
+
 
 and many others on Slack (see below).
 
