@@ -30,7 +30,6 @@ The _Greek Learner Texts Project_ is a collaborative effort to produce openly-li
 * Ivy Livingston — <https://scholar.harvard.edu/livingston>
 * Sarah M. Stephens — <https://github.com/sarahmccuan>
 
-
 and many others on Slack (see below).
 
 ## Joining Us
