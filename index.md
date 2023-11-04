@@ -29,6 +29,7 @@ The _Greek Learner Texts Project_ is a collaborative effort to produce openly-li
 * Eric Sowell — <http://ericsowell.com>
 * Ivy Livingston — <https://scholar.harvard.edu/livingston>
 * Sarah M. Stephens — <https://github.com/sarahmccuan>
+* Sarah Monnier — <https://github.com/Lorehouse>
 
 and many others on Discord (see below).
 
