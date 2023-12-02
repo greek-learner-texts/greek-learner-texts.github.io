@@ -10,9 +10,10 @@
   author: Chambers
   title: Greek War of Independence
   year: 1906
-  shepherd: Seumas
+  shepherd: Sarah Stephens
   repo: https://github.com/seumasjeltzz/ChambersGreekWar
-  status: "correcting OCR"
+  read: http://greek-learner-texts.org/ChambersGreekWar/
+  status: "First OCR correction complete for core; additional proofreading welcome. Lemmatizing & transcribing notes."
 
 -
   author: Beresford and Douglas
