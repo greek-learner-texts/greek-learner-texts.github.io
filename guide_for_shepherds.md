@@ -11,7 +11,7 @@ While we will probably expand things to include translation alignment, postaggin
 
 ## Getting Started
 
-* make sure you are in <https://greek-learner-texts.slack.com/>
+* make sure you are in <https://discord.gg/X3aX5SnhKT>
 * discuss the text you'd like to shepherd in the `#potential-projects` channel
 * if you can't get anyone else interested, you can still proceed solo but better if you have a few people that can help
 * make sure you are listed under "Who We Are" on <https://github.com/greek-learner-texts/greek-learner-texts.github.io/blob/master/index.md> (send a pull-request)
