@@ -15,11 +15,11 @@ While we will probably expand things to include translation alignment, postaggin
 * discuss the text you'd like to shepherd in the `#potential-projects` channel
 * if you can't get anyone else interested, you can still proceed solo but better if you have a few people that can help
 * make sure you are listed under "Who We Are" on <https://github.com/greek-learner-texts/greek-learner-texts.github.io/blob/master/index.md> (send a pull-request)
-* start a new channel in Slack and invite anyone who expressed an interest (you can also advertise it in `#general`)
+* start a new channel in Discord and invite anyone who expressed an interest (you can also advertise it in `#general`)
 * start a github repo for it by going to <https://github.com/greek-learner-texts/text-repository-template> and clicking the green button "use this template"
 * add a `greek-texts` topic tag to your repo
 * add the repo in the appropriate YAML file in <https://github.com/greek-learner-texts/greek-learner-texts.github.io/tree/master/_data/texts> (send a pull-request)
-* `/github subscribe` to the repo in the `#github` channel on Slack
+* `/github subscribe` to the repo in the `#github` channel on Discord
 
 ## Putting Together the Initial Text
 

@@ -8,7 +8,7 @@ As well as lemmatizing texts, we're developing a _learners' word list_ of a few 
 
 See <https://github.com/greek-learner-texts/vocabulary-data> for overall data-wrangling in progress.
 
-Join the `#vocabulary` channel on Slack for more discussion.
+Join the `#vocabulary` channel on Discord for more discussion.
 
 ## Morphology
 
@@ -16,4 +16,4 @@ Largely independent of this project but still hopefully serving it, James has be
 
 More will be announced here soon.
 
-Join the `#morphology` channel on Slack for more discussion.
+Join the `#morphology` channel on Discord for more discussion.
